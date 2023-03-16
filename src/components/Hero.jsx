@@ -16,12 +16,11 @@ const Hero = () => {
 
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>
-            Lets Learn <span className="text-[#915EFF]">C++</span>
+            Lets learn &nbsp;<span className="text-[#915EFF]">C++</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            Learn C++
-            <br className="sm:block hidden" />
-            easily without any stress
+            I develop 3D visuals, user <br className="sm:block hidden" />
+            interfaces and web applications
           </p>
         </div>
       </div>
