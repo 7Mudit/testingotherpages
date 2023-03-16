@@ -45,8 +45,8 @@ const Navbar = () => {
         >
           <img src={myLogo} alt="logo" className="w-9 h-9 object-contain" />
           <p className="text-white text-[18px] font-bold cursor-pointer flex ">
-            LTC &nbsp;
-            <span className="sm:block hidden"> | C++ Mastery</span>
+            Learn To Code &nbsp;
+            {/* <span className="sm:block hidden"> | C++ Mastery</span> */}
           </p>
         </Link>
 
